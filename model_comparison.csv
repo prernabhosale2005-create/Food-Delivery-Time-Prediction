@@ -1,0 +1,3 @@
+Model,Problem Type,Target,Main Metric,Score
+Linear Regression,Regression,Delivery_Time_min,R²,0.9330339752170278
+Logistic Regression,Classification,Delivery_Speed,Accuracy,0.9639
