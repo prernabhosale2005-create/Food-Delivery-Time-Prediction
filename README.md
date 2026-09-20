@@ -21,9 +21,11 @@ The project demonstrates the application of data preprocessing, exploratory data
 
 The project uses a **secondary dataset** obtained from Kaggle, a publicly available platform for datasets and data science resources.
 
-Source: Kaggle 
-Dataset: Food Delivery Time Prediction
-Number of Observations: 5,000
+Source: Kaggle .
+
+Dataset: Food Delivery Time Prediction.
+
+Number of Observations: 5,000.
 
 ### Dataset Information
 
